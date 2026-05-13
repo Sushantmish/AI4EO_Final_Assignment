@@ -65,15 +65,14 @@ The project followed 2 different methods (**Supervised (Random Forest)** and **U
 | <img src="Figures/AI4EO_figure2.png" width="100%" /> | <img src="Figures/AI4EO_figure1.png" width="100%" /> |
 |Supervised Learning uses manual point sampling to train a Random Forest model which is verified by a confusion matrix. |Unsupervised Learning applies K-Means Clustering to automatically segment burned areas after validating pixels.|
 
-## 4. Notebooks
 
 ## 4. Notebooks
 
 | Notebook Name | Significance |
 | :--- | :--- |
-| [01_Data_Prep.ipynb](Notebooks/data_prep.ipynb) | Handles environment setup, API authentication, and the initial loading of Sentinel-2 multispectral bands. |
-| [02_Analysis.ipynb](Notebooks/data_analysis.ipynb) | Performs feature engineering, including NDVI and dNBR calculations to quantify vegetation loss and burn severity. |
-| [03_ML_Modeling.ipynb](Notebooks/AI_training.ipynb) | Executes the core Machine Learning workflows for both Random Forest (Supervised) and K-Means (Unsupervised) classification. |
+| [data_prep.ipynb](Notebooks/data_prep.ipynb) | Handles environment setup, API authentication, and the initial loading of Sentinel-2 multispectral bands. |
+| [data_analysis.ipynb](Notebooks/data_analysis.ipynb) | Performs feature engineering, including NDVI and dNBR calculations to quantify vegetation loss and burn severity. |
+| [AI_training.ipynb](Notebooks/AI_training.ipynb) | Executes the core Machine Learning workflows for both Random Forest (Supervised) and K-Means (Unsupervised) classification. |
 
 ---
 
