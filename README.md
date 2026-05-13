@@ -65,6 +65,9 @@ The project followed 2 different methods (**Supervised (Random Forest)** and **U
 | <img src="Figures/AI4EO_figure2.png" width="100%" /> | <img src="Figures/AI4EO_figure1.png" width="100%" /> |
 |Supervised Learning uses manual point sampling to train a Random Forest model which is verified by a confusion matrix. |Unsupervised Learning applies K-Means Clustering to automatically segment burned areas after validating pixels.|
 
+**Important**: Check AI4EO_figure1.pdf and AI4EO_figure2.pdf versions of both figures in the Figures folder for better image quality. 
+
+---
 
 ## 4. Notebooks
 
@@ -77,7 +80,10 @@ The project followed 2 different methods (**Supervised (Random Forest)** and **U
 ---
 
 
-**Important**: Check AI4EO_figure1.pdf and AI4EO_figure2.pdf versions of both figures in the Figures folder for better image quality. 
+## 5. Video Explanation 
+
+The video below guides through jupyter notebook code in the notebooks mentioned above:  
+
 
 ---
 ## 8. References and Acknowledgements
