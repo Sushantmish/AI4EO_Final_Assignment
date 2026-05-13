@@ -23,8 +23,10 @@ This project explores the impact of 2019-2020 Bushfires in Kangaroo Island. Usin
 
 ### Context
 
+The 2019-2020 bushfires in Kangaroo Island were amongst the worst wildfires seen in recent history. Nearly half of the island was impacted by these fires which involved the destruction of natural habitats of animals such as koalas, wallabies and kangaroos (Bonney, 2020). 
 
 ### Problem Statement
+
 Despite the wide availability of satellite imagery, accurately mapping land cover change post bushfires remains a challenge. A single classification method might lead to inaccurate results as burnt vegetation can be confused with dark water bodies. Therefore, a comparative analysis of different classification methods is essential to validate results. 
 
 ### Project Aim
