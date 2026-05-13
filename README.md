@@ -43,6 +43,11 @@ This project aims to assess the performance of Supervised (Random Forest) and Un
 2. **Satellite Imagery**: Sentinel-2 Satellite Imagery accessed through Google Earth Engine
 3. **Acquisition Dates**: One-month median of **November-2019** and **February-2020**
 
+#### Note that GEOTIFF files of Pre-fire and Post-fire are extracted by the code in Notebook 1 but are too big to upload on Github,hence a different image has been used below: 
+
+![Pre and Post-Fire Comparison](data/NDVI_Comparison_Figure.png)
+
+
 ### Spectral Bands Used: 
 
 1. **Blue (B2)**, **Green (B3)**, **Red (B4)**: For True Color visualization.
