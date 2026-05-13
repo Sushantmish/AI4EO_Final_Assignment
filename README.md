@@ -54,6 +54,28 @@ This project aims to assess the performance of Supervised (Random Forest) and Un
 2. **Near-Infrared (B8)**: Essential for vegetation health assessment (NDVI).
 3. **Short-Wave Infrared (B12)**: Used for calculating burn ratios (dNBR).
 
+---
+
+## 3. Methods
+
+The project followed 2 different methods (**Supervised (Random Forest)** and **Unsupervised (K-Means Clustering)**) to evaluate the impact of bushfires
+
+### 3.1 Supervised Learning (Random Forest)
+
+| Random Forest Workflow |
+| :---: |
+| ![Random Forest Flowchart](Figures/AI4EO_figure2.pdf) |
+
+
+
+### 3.2 Unsupervised Learning (K-Means Clustering)
+
+| K-Means Workflow |
+| :---: |
+| ![K-Means Flowchart](Figures/AI4EO_figure1.pdf) |
+
+
+
 
 ---
 ## 8. References and Acknowledgements
@@ -65,4 +87,6 @@ I would like to thank Dr. Michel Tsamados and the course demonstraters for their
 ### References
 
 Bonney, M.T., He, Y. and Myint, S.W., 2020. Contextualizing the 2019–2020 Kangaroo Island Bushfires: Quantifying landscape-level influences on past severity and recovery with Landsat and Google Earth Engine. Remote Sensing, 12(23), p.3942.
+
+Tsamados, M. and Chen, W. (2022) GEOL0069: Artificial Intelligence for Earth Observation – course notebook. University College London. Available at: https://cpomucl.github.io/GEOL0069-AI4EO/intro.html
 
