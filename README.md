@@ -22,13 +22,13 @@ This project explores the impact of 2019-2020 Bushfires in Kangaroo Island. Usin
 ## 1. Introduction
 
 ### Context
-[Briefly describe the 2019-2020 Australian bushfire season and its impact on Kangaroo Island's ecosystem.]
+
 
 ### Problem Statement
-[Explain why mapping these fires is difficult and why comparing Supervised vs. Unsupervised methods is necessary for better accuracy.]
+
 
 ### Project Aim
-[State the main goal of this repository—e.g., to create a reliable classification pipeline for post-fire land cover analysis.]
+
 
 ---
 
