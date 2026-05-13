@@ -58,24 +58,15 @@ This project aims to assess the performance of Supervised (Random Forest) and Un
 
 ## 3. Methods
 
-The project followed 2 different methods (**Supervised (Random Forest)** and **Unsupervised (K-Means Clustering)**) to evaluate the impact of bushfires
+The project followed 2 different methods (**Supervised (Random Forest)** and **Unsupervised (K-Means Clustering)**) to evaluate the impact of bushfires:
 
-### 3.1 Supervised Learning (Random Forest)
-
-| Random Forest Workflow |
-| :---: |
-| ![Random Forest Flowchart](Figures/AI4EO_figure2.pdf) |
-
+| Supervised Learning (Random Forest) | Unsupervised Learning (K-Means Clustering) |
+| :--- | :--- |
+| <img src="Figures/AI4EO_figure2.png" width="100%" /> | <img src="Figures/AI4EO_figure1.png" width="100%" /> |
+|Supervised Learning uses manual point sampling to train a Random Forest model which is verified by a confusion matrix |Unsupervised Learning applies K-Means Clustering to automatically segment burned areas after validating pixels|
 
 
-### 3.2 Unsupervised Learning (K-Means Clustering)
-
-| K-Means Workflow |
-| :---: |
-| ![K-Means Flowchart](Figures/AI4EO_figure1.pdf) |
-
-
-
+**Important**: Check AI4EO_figure1.pdf and AI4EO_figure2.pdf versions of both figures in the Figures folder for better image quality. 
 
 ---
 ## 8. References and Acknowledgements
