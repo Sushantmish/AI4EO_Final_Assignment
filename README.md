@@ -86,6 +86,14 @@ The video below guides through jupyter notebook code in the notebooks mentioned 
 
 
 ---
+
+## 6. Results
+
+---
+
+## 7. Environmental Cost
+
+---
 ## 8. References and Acknowledgements
 
 ### Acknowledgements
