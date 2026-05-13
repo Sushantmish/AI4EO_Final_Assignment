@@ -70,9 +70,9 @@ The project followed 2 different methods (**Supervised (Random Forest)** and **U
 
 | Notebook Name | Significance |
 | :--- | :--- |
-| [data_prep.ipynb](Notebooks/data_prep.ipynb) | Handles environment setup, API authentication, and the initial loading of Sentinel-2 multispectral bands. |
-| [data_analysis.ipynb](Notebooks/data_analysis.ipynb) | Performs feature engineering, including NDVI and dNBR calculations to quantify vegetation loss and burn severity. |
-| [AI_training.ipynb](Notebooks/AI_training.ipynb) | Executes the core Machine Learning workflows for both Random Forest (Supervised) and K-Means (Unsupervised) classification. |
+| [data_prep.ipynb](Notebooks/data_prep.ipynb) | Handles Google Earth Engine setup, and the loading of Sentinel-2 images. |
+| [data_analysis.ipynb](Notebooks/data_analysis.ipynb) | Compares Pre-Fire and Post-Fire Imagery, including NDVI to quantify vegetation loss and burn severity. |
+| [AI_training.ipynb](Notebooks/AI_training.ipynb) | Executes the Machine Learning workflows for both Random Forest (Supervised) and K-Means (Unsupervised) classification. |
 
 ---
 
