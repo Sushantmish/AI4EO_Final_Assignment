@@ -37,6 +37,17 @@ This project aims to assess the performance of Supervised (Random Forest) and Un
 
 ## 2. Data Collection
 
+### Data Source: 
+
+1. **Location**: Kangaroo Island, South Australia.
+2. **Satellite Imagery**: Sentinel-2 Satellite Imagery accessed through Google Earth Engine
+3. **Acquisition Dates**: One-month median of **November-2019** and **February-2020**
+
+### Spectral Bands Used: 
+
+1. **Blue (B2)**, **Green (B3)**, **Red (B4)**: For True Color visualization.
+2. **Near-Infrared (B8)**: Essential for vegetation health assessment (NDVI).
+3. **Short-Wave Infrared (B12)**: Used for calculating burn ratios (dNBR).
 
 
 ---
