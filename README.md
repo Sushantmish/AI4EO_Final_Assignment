@@ -25,13 +25,15 @@ This project explores the impact of 2019-2020 Bushfires in Kangaroo Island. Usin
 
 
 ### Problem Statement
-
+Despite the wide availability of satellite imagery, accurately mapping land cover change post bushfires remains a challenge. A single classification method might lead to inaccurate results as burnt vegetation can be confused with dark water bodies. Therefore, a comparative analysis of different classification methods is essential to validate results. 
 
 ### Project Aim
 
+This project aims to assess the performance of Supervised (Random Forest) and Unsupervised (K-Means Clustering) Learning algorithms in mapping and evaluating the impact of bushfires. 
 
 ---
 
+## 2. Data Collection
 
 
 
@@ -44,4 +46,5 @@ I would like to thank Dr. Michel Tsamados and the course demonstraters for their
 
 ### References
 
+Bonney, M.T., He, Y. and Myint, S.W., 2020. Contextualizing the 2019–2020 Kangaroo Island Bushfires: Quantifying landscape-level influences on past severity and recovery with Landsat and Google Earth Engine. Remote Sensing, 12(23), p.3942.
 
