@@ -1,0 +1,3 @@
+Metric,Random Forest (Supervised),K-Means (Unsupervised),Difference
+Burned Pixels (Count),4151251,16300770,-12149519
+Estimated Area (Pixels),4151251,16300770,-292.67%
