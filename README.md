@@ -155,7 +155,7 @@ Key results from the figures above include:
 | **Area Estimation Difference** | — | +292.67% |
 
 
-**Key Takeaway:** The Random Forest model shows high reliability with a Kappa score of 0.8697, while the K-Means Clustering model overestimates the burned area by 292% due to spectral confusion making it less reliable
+**Key Takeaway:** The Random Forest model shows high reliability with a Kappa score of 0.8697, while the K-Means Clustering model overestimates the burned area by 292% due to spectral confusion making it less reliable.
 
 
 ### Limitations
