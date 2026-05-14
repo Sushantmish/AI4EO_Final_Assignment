@@ -107,7 +107,7 @@ The video below guides through jupyter notebook code mentioned above:
   </tr>
   <tr>
     <td><b>Time Lapse</b></td>
-    <td><img src="data/Fire_Analysis_Timelapse.mp4" alt="Time Lapse" width="100%"></td>
+    <td><img src="data/timelapse.gif" alt="Time Lapse" width="100%"></td>
     <td><b>Time Lapse Video/GIF:</b> A temporal sequence visualizing the progression of the burn scar and vegetation change over the study period. (<i>Note: Use .gif for direct playback</i>).</td>
   </tr>
   <tr>
