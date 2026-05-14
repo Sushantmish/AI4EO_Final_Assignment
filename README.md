@@ -174,9 +174,9 @@ I would like to thank Dr. Michel Tsamados and the course demonstraters for their
 
 Bonney, M.T., He, Y. and Myint, S.W., 2020. Contextualizing the 2019–2020 Kangaroo Island Bushfires: Quantifying landscape-level influences on past severity and recovery with Landsat and Google Earth Engine. Remote Sensing, 12(23), p.3942.
 
-European Union (2026) Contains modified Copernicus Sentinel data [2026]. Processed by [AI4EO Final Assignment]. Available at: https://dataspace.copernicus.eu/ (Accessed: 14 May 2026).
-
 Copernicus Data Space Ecosystem (2026) Sentinel-2 - Copernicus Sentinel Missions. Available at: https://dataspace.copernicus.eu/data-collections/copernicus-sentinel-missions/sentinel-2 (Accessed: 14 May 2026).
+
+European Union (2026) Contains modified Copernicus Sentinel data [2026]. Processed by [AI4EO Final Assignment]. Available at: https://dataspace.copernicus.eu/ (Accessed: 14 May 2026).
 
 Google Earth Engine (2026) Earth Engine Data Catalog. Google. Available at: https://earthengine.google.com/ (Accessed: 14 May 2026).
 
