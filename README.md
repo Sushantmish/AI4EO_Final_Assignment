@@ -83,7 +83,6 @@ The project followed 2 different methods (**Supervised (Random Forest)** and **U
 ## 5. Video Explanation 
 
 The video below guides through jupyter notebook code mentioned above:  
-## 5. Video
 
 [![Project Walkthrough Video](https://img.youtube.com/vi/OrhD4D9XnM4/0.jpg)](https://www.youtube.com/watch?v=OrhD4D9XnM4)
 
