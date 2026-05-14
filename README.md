@@ -147,13 +147,13 @@ Key results from the figures above include:
 
 ## 7. Environmental Cost
 
-To ensure this project aligns with sustainable AI practices, the computational carbon footprint was monitored using the **CodeCarbon** library. This allows for transparency regarding the environmental impact of data processing and model training.
+To ensure this project aligns with sustainable AI practices, the computational carbon footprint was monitored using the **CodeCarbon** library. This allows for transparency regarding the environmental impact of data processing, analysis and AI training as it keeps track of emissions generated throughout the operation of the notebook. 
 
 | Notebook | Energy Consumed (kWh) | CO₂ Emissions (kg) | Water Used (L) |
 | :--- | :--- | :--- | :--- |
-| **01: Data Prep** | 0.000460 | 0.000161 | 0.000000 |
-| **02: Analysis** | 0.006126 | 0.001339 | 0.000000 |
-| **03: AI Training** | 0.011039 | 0.003152 | 0.000000 |
+| **Data Preparation** | 0.000460 | 0.000161 | 0.000000 |
+| **Data Analysis** | 0.006126 | 0.001339 | 0.000000 |
+| **AI Training** | 0.011039 | 0.003152 | 0.000000 |
 | **Total Project Impact** | **0.017625** | **0.004652** | **0.000000** |
 
 **Sustainability Note**: The total footprint of this analysis (~0.0047 kg CO₂) is equivalent to driving a typical passenger car for approximately 18 meters. Monitoring these metrics is essential for responsible Earth Observation research.
