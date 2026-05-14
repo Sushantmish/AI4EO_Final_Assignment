@@ -82,12 +82,66 @@ The project followed 2 different methods (**Supervised (Random Forest)** and **U
 
 ## 5. Video Explanation 
 
-The video below guides through jupyter notebook code in the notebooks mentioned above:  
+The video below guides through jupyter notebook code mentioned above:  
 
 
 ---
 
 ## 6. Results
+
+<table>
+  <tr>
+    <th width="10%">Figure Name</th>
+    <th width="45%">Visual Output</th>
+    <th width="45%">Description</th>
+  </tr>
+  <tr>
+    <td><b>NDVI Change</b></td>
+    <td><img src="data/NDVI_Comparison_Figure.png" alt="NDVI Change" width="100%"></td>
+    <td><b>Normalized Difference Vegetation Index:</b> Quantifies the loss of green vegetation density by comparing pre- and post-fire spectral signatures.</td>
+  </tr>
+  <tr>
+    <td><b>Burn Severity Map</b></td>
+    <td><img src="data/Kangaroo_Island_Inferno_Final.png" alt="Burn Severity Map" width="100%"></td>
+    <td><b>Burn Severity:</b> A spatial representation of fire intensity derived from the Delta Normalized Burn Ratio (dNBR) to categorize damage levels.</td>
+  </tr>
+  <tr>
+    <td><b>Time Lapse</b></td>
+    <td><img src="data/Fire_Analysis_Timelapse.mp4" alt="Time Lapse" width="100%"></td>
+    <td><b>Time Lapse Video/GIF:</b> A temporal sequence visualizing the progression of the burn scar and vegetation change over the study period. (<i>Note: Use .gif for direct playback</i>).</td>
+  </tr>
+  <tr>
+    <td><b>Random Forest Image</b></td>
+    <td><img src="Results/AI_Wildfire_Burn_Map.tif" alt="Random Forest Image" width="100%"></td>
+    <td><b>Random Forest Generated Image:</b> The final classification map produced by the supervised model, distinguishing burned areas from healthy vegetation.</td>
+  </tr>
+  <tr>
+    <td><b>Confusion Matrix</b></td>
+    <td><img src="Figures/ai_confusion_matrix.png" alt="Confusion Matrix" width="100%"></td>
+    <td><b>Confusion Matrix:</b> A validation matrix used to assess the accuracy of the Random Forest model by comparing predicted labels against expert training samples.</td>
+  </tr>
+  <tr>
+    <td><b>Feature Importance</b></td>
+    <td><img src="Figures/ai_feature_importance.png" alt="Feature Importance" width="100%"></td>
+    <td><b>Feature Importance:</b> A ranking of spectral bands (B4, B3, B2, B8) and indices based on their contribution to the model's predictive power.</td>
+  </tr>
+  <tr>
+    <td><b>Final 2x2 Comparison</b></td>
+    <td><img src="Figures/Final_2x2_Comparison.png" alt="Final 2x2 Comparison" width="100%"></td>
+    <td><b>Final 2x2 Comparison:</b> A multi-panel view comparing raw satellite data, dNBR, K-Means results, and Random Forest predictions.</td>
+  </tr>
+</table>
+
+### Results Summary
+
+Key results from the figures above include: 
+
+1. 
+
+### Limitations
+1. **Spectral Confusion**: It is often difficult to distinguish between burnt vegetation and dark water bodies as well as shadows. These similar spectral signatures can cause wrong interpretations, making it important to test different methods. 
+2. **Resolution Constraints**: Sentinel-2 has a high resolution of 10m for the B4, B3,B2 and B8 spectral bands used in this study, however, that still might not be enough to detect smaller burnt patches. 
+3. **Manual Sampling**: There is a manual sampling bias involved in the training dataset, although it produces highly accurate results.  
 
 ---
 
@@ -103,6 +157,8 @@ I would like to thank Dr. Michel Tsamados and the course demonstraters for their
 ### References
 
 Bonney, M.T., He, Y. and Myint, S.W., 2020. Contextualizing the 2019–2020 Kangaroo Island Bushfires: Quantifying landscape-level influences on past severity and recovery with Landsat and Google Earth Engine. Remote Sensing, 12(23), p.3942.
+
+Copernicus Data Space Ecosystem (2026) Sentinel-2 - Copernicus Sentinel Missions. Available at: https://dataspace.copernicus.eu/data-collections/copernicus-sentinel-missions/sentinel-2 (Accessed: 14 May 2026).
 
 Tsamados, M. and Chen, W. (2022) GEOL0069: Artificial Intelligence for Earth Observation – course notebook. University College London. Available at: https://cpomucl.github.io/GEOL0069-AI4EO/intro.html
 
