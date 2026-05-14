@@ -144,6 +144,19 @@ Key results from the figures above include:
 | **Estimated Wildlife Impact** | ~205,075 Koalas affected |
 | **High-Severity Burned Pixels** | 4,101,504 pixels |
 
+| Feature | Supervised Learning (Random Forest) | Unsupervised Learning (K-Means) |
+| :--- | :--- | :--- |
+| **Overall Accuracy** | 95% (from confusion matrix) | — |
+| **Cohen’s Kappa Score** | 0.8697 | — |
+| **Burned Pixels Count** | 4,151,251 | 16,300,770 |
+| **Burn Classification F1-Score** | 0.90 | — |
+| **Precision (Burn Class)** | 0.89 | — |
+| **Recall (Burn Class)** | 0.91 | — |
+| **Area Estimation Difference** | — | +292.67% vs Supervised |
+
+
+> **Key Takeaway:** The Random Forest model shows high reliability with a Kappa score of 0.8697, while the K-Means Clustering model overestimates the burned area by 292% due to spectral confusion making it less reliable
+
 
 ### Limitations
 1. **Spectral Confusion**: It is often difficult to distinguish between burnt vegetation and dark water bodies as well as shadows. These similar spectral signatures can cause wrong interpretations, making it important to test different methods. 
