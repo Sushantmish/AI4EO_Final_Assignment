@@ -136,7 +136,14 @@ The video below guides through jupyter notebook code mentioned above:
 
 Key results from the figures above include: 
 
-1. 
+| Feature | Analysis Result (No AI implemented yet) |
+| :--- | :--- |
+| **Percentage of Island Impacted** | 23.18% |
+| **Total Forest Area Lost** | 164,060.16 Hectares |
+| **Estimated CO₂ Released** | 90,315,118.08 Tonnes |
+| **Estimated Wildlife Impact** | ~205,075 Koalas affected |
+| **High-Severity Burned Pixels** | 4,101,504 pixels |
+
 
 ### Limitations
 1. **Spectral Confusion**: It is often difficult to distinguish between burnt vegetation and dark water bodies as well as shadows. These similar spectral signatures can cause wrong interpretations, making it important to test different methods. 
