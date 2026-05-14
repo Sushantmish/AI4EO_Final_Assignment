@@ -12,7 +12,7 @@ This project explores the impact of 2019-2020 Bushfires in Kangaroo Island. Usin
 2.  [Data Collection](#2-data-collection)
 3.  [Methods](#3-methods)
 4.  [Notebooks](#4-notebooks)
-5.  [Video Explanation](#5-video)
+5.  [Video Explanation](#5-video-Explanation)
 6.  [Results](#6-results)
 7.  [Environmental Cost](#7-environmental-cost)
 8.  [References and Acknowledgements](#8-references-and-acknowledgements)
