@@ -156,7 +156,12 @@ To ensure this project aligns with sustainable AI practices, the computational c
 | **AI Training** | 0.011039 | 0.003152 | 0.000000 |
 | **Total Project Impact** | **0.017625** | **0.004652** | **0.000000** |
 
-**Important**: The total footprint of this analysis (~0.0047 kg CO₂) is equivalent to driving a typical passenger car for approximately 18 meters. Although this emmission is negligible, monitoring these metrics is essential for responsible Earth Observation research that implements the use of AI.
+**Important**: The total footprint of this analysis (~0.0047 kg CO₂) is equivalent to driving a typical passenger car for approximately 18 meters. Although this emission is negligible, monitoring these metrics is essential for responsible Earth Observation research that implements the use of AI. Some key measures that were taken to keep environmental impact minimal in this project include: 
+
+1. **Efficient Data Collection**: The data preparation notebook extracts particular extents of the Kangaroo Island minimising environmental costs of handling higher bandwidth data. 
+2. **Targetted Spatial Masking**: The collected data from Copernicus Data Space ecosystem focused on collecting clean data so irrelevant data points like clouds are not being handled in later stages of processing and training. 
+3. **Utilising Significant Spectral Bands**:  The model only uses spectral bands with the most predictive nature, ensuring better and efficient results. 
+4. **Efficient Pixel Processing**: The model operates on vectorised processing of pixels instead of pixel by pixel loops which are slow and less sustainable.
 
 ---
 ## 8. References and Acknowledgements
