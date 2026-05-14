@@ -174,7 +174,13 @@ I would like to thank Dr. Michel Tsamados and the course demonstraters for their
 
 Bonney, M.T., He, Y. and Myint, S.W., 2020. Contextualizing the 2019–2020 Kangaroo Island Bushfires: Quantifying landscape-level influences on past severity and recovery with Landsat and Google Earth Engine. Remote Sensing, 12(23), p.3942.
 
+European Union (2026) Contains modified Copernicus Sentinel data [2026]. Processed by [AI4EO Final Assignment]. Available at: https://dataspace.copernicus.eu/ (Accessed: 14 May 2026).
+
 Copernicus Data Space Ecosystem (2026) Sentinel-2 - Copernicus Sentinel Missions. Available at: https://dataspace.copernicus.eu/data-collections/copernicus-sentinel-missions/sentinel-2 (Accessed: 14 May 2026).
+
+Google Earth Engine (2026) Earth Engine Data Catalog. Google. Available at: https://earthengine.google.com/ (Accessed: 14 May 2026).
+
+Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D. and Moore, R. (2017) 'Google Earth Engine: Planetary-scale geospatial analysis for everyone', Remote Sensing of Environment, 202, pp. 18-27. doi: 10.1016/j.rse.2017.05.010.
 
 Tsamados, M. and Chen, W. (2022) GEOL0069: Artificial Intelligence for Earth Observation – course notebook. University College London. Available at: https://cpomucl.github.io/GEOL0069-AI4EO/intro.html
 
