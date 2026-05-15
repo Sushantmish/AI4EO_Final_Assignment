@@ -23,7 +23,9 @@ This project explores the impact of 2019-2020 Bushfires in Kangaroo Island. Usin
 
 ### Context
 
-The 2019-2020 bushfires in Kangaroo Island were amongst the worst wildfires seen in recent history. Nearly half of the island was impacted by these fires which involved the destruction of natural habitats of animals such as koalas, wallabies and kangaroos (Bonney, 2020). 
+The 2019-2020 bushfires in Kangaroo Island were amongst the worst wildfires seen in recent history. The island's unique Gondwanan flora and fauna species were severly impacted by these fires (Ward et al., 2020). Nearly half of the island was impacted by these fires accompanied by the destruction of natural habitats of animals such as koalas, wallabies and kangaroos (Bonney, 2020). 
+
+Inaccurate quantification of bushfire damage hinders disaster response while also impeding ecological restoration. Traditional ground-based surveys are slow and often dangerous while basic satellite imagery analysis lacks resolution. This makes it extremely important to implement accurate Artificial Intelligence techniques in surveying land cover change. 
 
 ### Problem Statement
 
@@ -205,3 +207,4 @@ Gorelick, N., Hancher, M., Dixon, M., Ilyushchenko, S., Thau, D. and Moore, R. (
 
 Tsamados, M. and Chen, W. (2022) GEOL0069: Artificial Intelligence for Earth Observation – course notebook. University College London. Available at: https://cpomucl.github.io/GEOL0069-AI4EO/intro.html
 
+Ward, M., Tulloch, A.I., Radford, J.Q., Williams, B.A., Reside, A.E., Macdonald, S.L., Mayfield, H.J., Maron, M., Possingham, H.P., Vine, S.J. and Watson, J.E. (2020) 'Impact of 2019–2020 mega-fires on Australian fauna habitat', Nature Ecology & Evolution, 4(10), pp. 1321-1326.
