@@ -23,7 +23,7 @@ This project explores the impact of 2019-2020 Bushfires in Kangaroo Island. Usin
 
 ### Context
 
-The 2019-2020 bushfires in Kangaroo Island were amongst the worst wildfires seen in recent history. The island's unique Gondwanan flora and fauna species were severly impacted by these fires (Ward et al., 2020). Nearly half of the island was impacted by these fires accompanied by the destruction of natural habitats of animals such as koalas, wallabies and kangaroos (Bonney, 2020). 
+The 2019-2020 bushfires in Kangaroo Island were amongst the worst wildfires seen in recent history. The island's unique Gondwanan flora and fauna species were severly impacted by these fires (Ward et al., 2020). Nearly half of the island was destroyed by these fires accompanied by the destruction of natural habitats of animals such as koalas, wallabies and kangaroos (Bonney, 2020). 
 
 Inaccurate quantification of bushfire damage hinders disaster response while also impeding ecological restoration. Traditional ground-based surveys are slow and often dangerous while basic satellite imagery analysis lacks resolution. This makes it extremely important to implement accurate Artificial Intelligence techniques in surveying land cover change. 
 
